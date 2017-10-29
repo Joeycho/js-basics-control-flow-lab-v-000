@@ -2,15 +2,15 @@
 function scuberGreetingForFeet(ride)
 {
   if (ride <= 400){
-    puts 'This one is on me!'
+    console.log('This one is on me!')
   }
   else if (ride > 2000) {
-    puts '30 dollars'
+    console.log('30 dollars')
   }
 }
 function ternaryCheckCity(){
-  
+
 }
 function switchOnCharmFromTip(){
-  
+
 }
