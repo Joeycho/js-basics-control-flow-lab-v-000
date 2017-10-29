@@ -5,6 +5,6 @@ scuberGreetingForFeet(ride)
     puts 'This one is on me!'
   }
   else if (ride > 2000) {
-    puts
+    puts '30 dollars'
   }
 }
