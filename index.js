@@ -5,7 +5,10 @@ function scuberGreetingForFeet(ride)
     console.log('This one is on me!')
   }
   else if (ride > 2000) {
-    console.log('30 dollars')
+    console.log('I will gladly take your thirty bucks.')
+  }
+  else if (ride > 2500){
+    console.log('No can do.')
   }
 }
 function ternaryCheckCity(){
