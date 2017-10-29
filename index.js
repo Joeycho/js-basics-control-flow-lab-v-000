@@ -8,3 +8,9 @@ function scuberGreetingForFeet(ride)
     puts '30 dollars'
   }
 }
+function ternaryCheckCity(){
+  
+}
+function switchOnCharmFromTip(){
+  
+}
