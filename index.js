@@ -12,9 +12,10 @@ function scuberGreetingForFeet(ride)
   }
 }
 
-function ternaryCheckCity(city){
+/*function ternaryCheckCity(city){
     city === 'NYC' ? return "Ok, sounds good" : return "No go."
-}
+}*/
+
 function switchOnCharmFromTip(){
 
 }
