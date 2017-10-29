@@ -11,6 +11,7 @@ function scuberGreetingForFeet(ride)
     return 'I will gladly take your thirty bucks.'
   }
 }
+
 function ternaryCheckCity(city){
     city === 'NYC' ? return "Ok, sounds good" : return "No go."
 }
